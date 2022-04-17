@@ -1,0 +1,30 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanVan1412/nodejs_blogs.git"
+  },
+  "keywords": [
+    "f8",
+    "blogs",
+    "f8",
+    "nodejs"
+  ],
+  "author": "Phan Van Tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanVan1412/nodejs_blogs/issues"
+  },
+  "homepage": "https://github.com/PhanVan1412/nodejs_blogs#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
